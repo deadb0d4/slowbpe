@@ -7,7 +7,7 @@ Karpathy's [Let's build the GPT Tokenizer](https://youtu.be/zduSFxRajkE?si=ES9gE
 ## Goals
 
 - [x] Implement an algorithm from https://en.wikipedia.org/wiki/Byte_pair_encoding naively
-- [ ] Check-in benchmarks
+- [x] Check-in benchmarks (for possible future work, one text file for now)
 - [ ] Implement a faster implementation with lots of comments
 
 ## References

@@ -7,3 +7,5 @@
 build/
 cmake-deps/
 __pycache__/
+
+benchmarks/static/
