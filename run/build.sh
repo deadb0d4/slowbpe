@@ -1,4 +1,4 @@
-set -ex
+set -e
 
 BUILD_DIR="./build"
 
