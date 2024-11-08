@@ -1,0 +1,9 @@
+.*
+!.vscode
+!.gitignore
+!.gitkeep
+!.clang-format
+
+build/
+cmake-deps/
+__pycache__/
