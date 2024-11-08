@@ -1,0 +1,6 @@
+Ｕｎｉｃｏｄｅ! 🅤🅝🅘🅒🅞🅓🅔‽ 🇺‌🇳‌🇮‌🇨‌🇴‌🇩‌🇪! 😄
+
+Update: in Win10 version 1903, they finally added UTF-8 support to the 8-bit APIs! 😊
+
+
+For example, the accented character “Á” can be expressed as a string of two code points:
