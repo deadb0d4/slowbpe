@@ -15,4 +15,4 @@ cmake -Wno-dev \
 make -j4 -C ${BUILD_DIR}
 
 # 4. test
-ctest --test-dir ${BUILD_DIR}
+ctest --test-dir ${BUILD_DIR} --output-on-failure --stop-on-failure
