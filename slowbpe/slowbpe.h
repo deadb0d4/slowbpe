@@ -18,3 +18,9 @@ namespace slow {
 Result RunBpe(const std::vector<int>& tokens, int firstToken, int num_iters);
 
 }  // namespace slow
+
+namespace v1 {
+
+Result RunBpe(const std::vector<int>& tokens, int firstToken, int num_iters);
+
+}  // namespace v1
